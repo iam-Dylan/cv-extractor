@@ -1,5 +1,10 @@
-streamlit==1.37.1
+--prefer-binary
+--only-binary=blis,cymem,murmurhash,preshed,srsly,thinc,spacy
+
 spacy==3.7.4
-pymupdf==1.24.11
-regex==2024.5.15
-tika==2.6.0
+thinc==8.2.4
+blis==0.7.11
+cymem==2.0.10
+murmurhash==1.0.10
+preshed==3.0.9
+srsly==2.4.8
